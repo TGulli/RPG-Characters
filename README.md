@@ -81,4 +81,3 @@ For testing, the program has a own directory called Tests. This directory has te
 # Diagram
 
 ![Alt text](./diagram.svg)
-<img src="./diagram.svg">
